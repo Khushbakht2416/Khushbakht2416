@@ -1,6 +1,6 @@
 ![logo](https://github.com/Khushbakht2416/Khushbakht2416/blob/main/GitHub%20Banner.png)
 <h1 align="center">Hi 👋, I'm Khushbakht Fatima</h1>
-<h3 align="center">A passionate Web Developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
 <img align ="right" alt="coding" width ="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamRwNHFocWh4dHNyODhndzFwdnkxNTRpcmtncHV2bGY5ODFzc3BxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ho8klqe5oPLa8g6BNe/giphy.gif">
 
