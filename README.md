@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Khushbakht Fatima</h1>
 <h3 align="center">A passionate Web Developer from Pakistan</h3>
 
-<img align ="right" alt="coding" width ="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWo2NTJlMDd6b2dmOTFydDN6OXJkczVwdjNrcnY0OXcxcHo3N3Y0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align ="right" alt="coding" width ="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamRwNHFocWh4dHNyODhndzFwdnkxNTRpcmtncHV2bGY5ODFzc3BxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ho8klqe5oPLa8g6BNe/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushbakht2416&label=Profile%20views&color=0e75b6&style=flat" alt="khushbakht2416" /> </p>
 
