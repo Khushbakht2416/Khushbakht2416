@@ -7,14 +7,14 @@
 </h1>
 
 <!-- About Me -->
-<h3 align="center">🚀 A Passionate Full Stack Developer from Pakistan</h3>
+<h3 align="center">🚀 A Passionate Full Stack Web Developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamRwNHFocWh4dHNyODhndzFwdnkxNTRpcmtncHV2bGY5ODFzc3BxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ho8klqe5oPLa8g6BNe/giphy.gif">
 
 ---
 
 ### 🌟 About Me
-- 💻 Full Stack Developer specializing in **Laravel, PHP, Flutter & JavaScript**  
+- 💻 Full Stack Developer specializing in **Laravel**  
 - 💬 Ask me about **Laravel & Web Development**  
 - 📫 Reach me at **khushbakhtf43@gmail.com**  
 - ⚡ Fun Fact: *I still get excited every time my code runs without errors!*  
@@ -35,7 +35,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,java,cpp,mysql,flutter,dart,bootstrap,tailwind,figma,sass,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,java,cpp,mysql,flutter,dart,bootstrap,tailwind,figma,sass" />
 </p>
 
 ---
