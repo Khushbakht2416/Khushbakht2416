@@ -9,7 +9,7 @@
 <!-- About Me -->
 <h3 align="center">🚀 A Passionate Full Stack Web Developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamRwNHFocWh4dHNyODhndzFwdnkxNTRpcmtncHV2bGY5ODFzc3BxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ho8klqe5oPLa8g6BNe/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGc3Zzl1Z2tiMjNpeWk0a21hY2w2MXY1ZGsxcXQ1M3Rucml6b21xdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FdblYGAIakSTaOLhNq/giphy.gif">
 
 ---
 
